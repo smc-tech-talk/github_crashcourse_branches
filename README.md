@@ -8,9 +8,4 @@
 
 ### Katsuya
 
-- [] Edit the html
-
-### Jongwoo
-
-- [] Edit the css
-- [] More Tasks!
+### JW
